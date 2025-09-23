@@ -14,6 +14,7 @@ def generador(ini, fin):
 
 
 if __name__ == "__main__":
-    l = generador(0, 100000);
+    l = generador(0, 100000=);
     print(l[:20])
+    l1 = threading.Thread(generador, args = (0, 250000))
     #generamos 4 hilos
