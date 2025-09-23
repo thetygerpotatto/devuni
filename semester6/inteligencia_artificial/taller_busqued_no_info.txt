@@ -1,0 +1,6 @@
+Problema 1
+
+- liste los nodos que se expandan
+     ABCDEFGH
+- Liste los nodos que se crearon en la busqueda por amplitud:
+    ABCDEFGHIJKL
