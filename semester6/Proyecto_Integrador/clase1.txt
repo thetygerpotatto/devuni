@@ -1,0 +1,41 @@
+DIU:
+
+Es el proceso de diseñar interfaces graficas con el objetivo de tener una 
+experirencia de usuario agradable, facil de usar y eficiente 
+
+Se centra en la presentacio visual de informacion y en como los usuarios
+interactuan con esta( por medio de menus, botones, cuadros de texto, etc..)
+
+Al crear interfaces se deben crear prototipos para evalaura la usabilidad.
+Esto permite corregir problemas antes de lanzar la interfaz al publico.
+
+Ramas del DIU
+    Diseño de interaccion:
+        - Es la forma como el usuario interactua con un sistema. Su objetivo 
+          es crear una experiencia de usuario eficiente.
+        - Involucra la creacion de prototipos, wireframes, y mockups.
+            wireframes -> mockup  -> Prototipo
+        - Retroalimentacion, facilidad de uso, consistencia y accesibilidad.
+
+    Diseño Visual:
+        - Parte estetica y apariencia. Su objetivo es crear una interfaz de 
+          de usuario atractiva y agradable visualmente
+        - Accesibilidad, legibilidad y usabilidad
+
+
+    UX:
+        - Es como la personas interactuan con una aplicacion y sistema, tiene 
+          como objetivo transmitir un sentimento agradable al usuario.
+          Se deben comprender las necesidades y espectativas de los usuarios finales.
+           CALIDAD: calidad interna y externa
+           calidad externa = satisfacer necesidades y espectativas de los usuarios finales.
+           calidad interna = cumplir con los standares 
+    
+    Diseño de accesibilidad:
+        - Accesible por todos los usuarios(discapacidades motoras, visuales, auditivas, o cognitivas)
+    
+    Juegos:
+        -
+
+
+

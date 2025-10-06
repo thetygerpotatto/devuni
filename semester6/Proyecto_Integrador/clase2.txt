@@ -1,0 +1,25 @@
+
+Usabilidad Accesibilidad:
+    Una interfaz con buena usabilidad es accesible y 
+    permite al usuario realizar las tareas de forma efectiva
+
+    usabilidad:
+        Una bueno interfaz de usuario debe ser intuitiva y facil de aprender.
+            -la intuitividad depende del usuario objetivo.
+            - Tambien se refiere a la satisfaccion que siente el usuario al 
+            usar la interfaz.
+
+    Accesibilidad:
+        El software debe permitir a cualquier persona utilizarlo por sus propios medios.
+
+HCI:
+    Human Computer Interactions
+        diseño evaluacion y Aplicacion de sistemas y tecnologias que involucran la 
+        interaccion entre humanos y computadoras.
+            - Se ocupa de como las personas interactuan con los sistemas de computadoras
+            - es multidiciplinaria, psicologia, ergonomia, inteligencia artificial,
+            y la interaccion persona computadora
+WIREFRAMES:
+    - Sirve para hacer la maquetacion visual de la aplicacion
+    - Se hacen rapidamente en compañia del cliente 
+    
